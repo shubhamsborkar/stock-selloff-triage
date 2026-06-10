@@ -2,7 +2,7 @@
 
 Is your stock weak on its own? Is your sector shifting? Or is the whole market repricing?
 
-This repo documents, end to end, how I built a capital-rotation diagnostic in one evening with Claude Code during the June 2026 tech selloff, using Broadcom (AVGO) as the live case. It accompanies this edition of Alpha with AI: [NEWSLETTER LINK]
+This repo documents, end to end, how I built a capital-rotation diagnostic in one evening with Claude Code during the June 2026 tech selloff, using Broadcom (AVGO) as the live case. It accompanies this edition of Alpha with AI: [https://ai.shikshannivesh.com/p/how-claude-mythos-replaced-my-600]
 
 ## What is in here
 
